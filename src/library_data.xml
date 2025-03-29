@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<library>
+    <book>
+        <isbn>978-0321765723</isbn>
+        <title>Effective Java</title>
+        <author>Joshua Bloch</author>
+        <publicationYear>2017</publicationYear>
+        <publisher>Addison-Wesley</publisher>
+        <pages>416</pages>
+        <genre>Programming</genre>
+        <price>550000.0</price>
+    </book>
+    <book>
+        <isbn>978-0132350884</isbn>
+        <title>Clean Code</title>
+        <author>Robert C. Martin</author>
+        <publicationYear>2008</publicationYear>
+        <publisher>Prentice Hall</publisher>
+        <pages>464</pages>
+        <genre>Software Engineering</genre>
+        <price>480000.0</price>
+    </book>
+</library>
